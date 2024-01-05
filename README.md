@@ -1,3 +1,1 @@
-# GUVI-DAY32 REACT REDUX TASK
-
-https://reacts-redux-tasks.netlify.app/
+Netlify link : https://splendid-unicorn-b74305.netlify.app/
